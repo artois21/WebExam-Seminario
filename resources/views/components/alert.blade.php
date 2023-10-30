@@ -1,0 +1,2 @@
+@props(['message'])
+{{$attributes}}
